@@ -21,3 +21,10 @@ yarn global add @nestjs/cli
 ```sh
 nest new projeto1
 ```
+
+- Create controller `cats` inside **cats** folder.
+
+```sh
+nest g controller cats
+```
+
